@@ -20,6 +20,7 @@ public class Gun : MonoBehaviour
 
     void Test(){
         Debug.Log("test1");
+        Debug.Log("test2");
     }
     //1. fresh man - this is test
 }
