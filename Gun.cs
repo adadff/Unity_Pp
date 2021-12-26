@@ -8,6 +8,7 @@ public class Gun : MonoBehaviour
     void Start()
     {
         Debug.Log("shit.");
+        Debug.Log("shit2.");
         
     }
 
