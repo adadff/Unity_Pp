@@ -16,4 +16,6 @@ public class Gun : MonoBehaviour
     {
         
     }
+
+    //1. fresh man - this is test
 }
